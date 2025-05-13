@@ -26,3 +26,9 @@ transition: ;
 height: 300px;
 
 }
+
+.servicio:hover {
+
+transform: scale(1.05);
+
+}
